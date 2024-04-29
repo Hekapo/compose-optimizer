@@ -1,0 +1,217 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="GradleJvmSupportMatrix">
+    <option name="compatibility">
+      <list>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="INF-5.0" />
+          <option name="javaVersionInfo" value="6-8" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="INF-INF" />
+          <option name="javaVersionInfo" value="8-9" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="4.3-INF" />
+          <option name="javaVersionInfo" value="9-10" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="4.7-INF" />
+          <option name="javaVersionInfo" value="10-11" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="5.0-INF" />
+          <option name="javaVersionInfo" value="11-12" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="5.4-INF" />
+          <option name="javaVersionInfo" value="12-13" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="6.0-INF" />
+          <option name="javaVersionInfo" value="13-14" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="6.3-INF" />
+          <option name="javaVersionInfo" value="14-15" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="6.7-INF" />
+          <option name="javaVersionInfo" value="15-16" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.0-INF" />
+          <option name="javaVersionInfo" value="16-17" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.2-INF" />
+          <option name="javaVersionInfo" value="17-18" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.5-INF" />
+          <option name="javaVersionInfo" value="18-19" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="7.6-INF" />
+          <option name="javaVersionInfo" value="19-20" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="8.3-INF" />
+          <option name="javaVersionInfo" value="20-21" />
+        </VersionMapping>
+        <VersionMapping>
+          <option name="gradleVersionInfo" value="8.5-INF" />
+          <option name="javaVersionInfo" value="21-22" />
+        </VersionMapping>
+      </list>
+    </option>
+    <option name="default" value="false" />
+    <option name="ideVersion" value="Jellyfish | 2023.3.1 Beta 2" />
+    <option name="lastUpdateTime" value="1712183100971" />
+    <option name="supportedGradleVersions">
+      <list>
+        <option value="4.5" />
+        <option value="4.5.1" />
+        <option value="4.6" />
+        <option value="4.7" />
+        <option value="4.8" />
+        <option value="4.9" />
+        <option value="4.10" />
+        <option value="4.10.3" />
+        <option value="5.0" />
+        <option value="5.1" />
+        <option value="5.2" />
+        <option value="5.3" />
+        <option value="5.3.1" />
+        <option value="5.4" />
+        <option value="5.4.1" />
+        <option value="5.5" />
+        <option value="5.5.1" />
+        <option value="5.6" />
+        <option value="5.6.2" />
+        <option value="6.0" />
+        <option value="6.0.1" />
+        <option value="6.1" />
+        <option value="6.2" />
+        <option value="6.3" />
+        <option value="6.4" />
+        <option value="6.5" />
+        <option value="6.6" />
+        <option value="6.7" />
+        <option value="6.8" />
+        <option value="6.8.3" />
+        <option value="6.9" />
+        <option value="7.0" />
+        <option value="7.1" />
+        <option value="7.2" />
+        <option value="7.3" />
+        <option value="7.4" />
+        <option value="7.5" />
+        <option value="7.5.1" />
+        <option value="7.6" />
+        <option value="8.0" />
+        <option value="8.1" />
+        <option value="8.2" />
+        <option value="8.3" />
+        <option value="8.4" />
+        <option value="8.5" />
+        <option value="8.6" />
+      </list>
+    </option>
+    <option name="supportedJavaVersions">
+      <list>
+        <option value="8" />
+        <option value="9" />
+        <option value="10" />
+        <option value="11" />
+        <option value="12" />
+        <option value="13" />
+        <option value="14" />
+        <option value="15" />
+        <option value="16" />
+        <option value="17" />
+        <option value="18" />
+        <option value="19" />
+        <option value="20" />
+        <option value="21" />
+      </list>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "android",
+    "MarketplacePluginsSearchHistory": "android",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.ide.auto-popup.quick-doc.initialized": "true",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "android.sdk.path": "/home/iskandar/Android/Sdk",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "AI-233.14808.21.2331.11608968",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.first.promotion.localdate": "2023-12-27",
+    "experimental.ui.on.first.startup": "false",
+    "experimental.ui.promo.banner.disabled": "true",
+    "fileTypeChangedCounter": "5",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.speed.search.shown": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "gotit.previous.run": "IC-233.14475.28",
+    "ide.memory.adjusted": "true",
+    "ignore.essential-highlighting.mode": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "241.14494.240.2411.11731683-AS",
+    "last_opened_file_path": "/home/iskandar/backup.txt",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "AI-241.14494.240.2411.11731683",
+    "studio.activity.count": "5",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/iskandar/backup.txt",
+      "/home/iskandar/AndroidStudioProjects/MyApplication"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ],
+    "kotlin-gradle-user-dirs": [
+      "/home/iskandar/.gradle"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;ShowUsages&quot;: 1709591361859
+  },
+  &quot;proposedTips&quot;: {
+    &quot;ShowUsages&quot;: 1709591361768
+  },
+  &quot;tipsOrderSeed&quot;: 1709591361740
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="My Application-history" project-path="/home/iskandar/AndroidStudioProjects/MyApplication" last-access-time="1710538224435" />
+    </command-history-files>
+  </component>
+</application>

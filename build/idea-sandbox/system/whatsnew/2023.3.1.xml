@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (C) 2019 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<tutorialBundle
+    name="What's New"
+    resourceRoot="/"
+    stepByStep="false"
+    hideStepIndex="true"
+    version="2023.3.1">
+  <feature
+      name="What's New in Jellyfish">
+    <tutorial
+        key="whats-new"
+        label=" What's New in Jellyfish"
+        icon="preview/product-icon.svg"
+        remoteLink="https://d.android.com/r/studio-ui/whats-new-assistant/preview-release-notes/2023-3-1"
+        remoteLinkLabel="Read in a browser">
+      <description>
+        <![CDATA[
+          This panel describes some of the new features and behavior changes
+          included in this update.
+          <br><br>
+          To open this panel again later, select <b>Help &gt; What's New in Android Studio</b>
+          from the main menu.
+          ]]>
+      </description>
+      <step label="Access real devices with Device Streaming">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>
+            Device streaming in Android Studio lets you securely connect to remote physical
+            Android devices hosted in Google's secure data centers. Powered by Firebase, it's the
+            fastest and easiest way to test your app against real devices, including the Google
+            Pixel 8 Pro, Pixel Fold, select Samsung devices, and more.
+            </p>
+            <br>
+            <img
+              src="https://d.android.com/studio/releases/assistant/2023.3.1/device-streaming.gif"
+              width="856"
+              alt="">
+            <br><br>
+            <p>
+            After connecting to a device, you can deploy your app, view the display, interact with
+            the device (including rotating or unfolding the device), and anything else you might do
+            with a device over a direct ADB over SSL connection—all without leaving Android Studio.
+            When you're done using the device, Google wipes all your data and factory resets the
+            device before making it available to another developer.
+            </p>
+            <br>
+            <p>
+            <b>During Open Alpha, you can use Device Streaming at no cost</b> by simply logging into
+            your Developer account and selecting a Firebase project. If you don't already have a
+            Firebase project, it's easy to create one.
+            </p>
+            ]]>
+          </section>
+        </stepElement>
+        <stepElement>
+          <action
+              key="device.streaming.onboarding"
+              label="Get Started">
+          </action>
+        </stepElement>
+      </step>
+      <step label="Studio Bot expands to 170+ international markets">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>
+            Studio Bot is now accessible in over 170 countries and territories. Studio Bot is an
+            AI-powered coding assistant that can accelerate your productivity by generating code for
+            your app, answering questions, finding relevant resources—all without ever having to
+            leave Android Studio.
+            </p>
+            <br>
+            <a href="https://d.android.com/r/studio-ui/studio-bot">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Redirect audio using device mirroring">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>
+            Starting with Android Studio Jellyfish Canary 5, you can redirect audio from connected
+            physical devices to your computer speakers or headphones. To enable audio redirection,
+            go to <b>Android Studio &gt; Settings &gt; Tools &gt; Device Mirroring</b> and select
+            <b>Redirect audio from local devices</b>.
+            </p>
+            <br><br>
+            <a href="https://d.android.com/r/studio-ui/run/audio-redirection">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <footerStep label="">
+        <stepElement>
+          <section>
+            <![CDATA[
+              <br><em>Last updated 3/18/2024</em><br><br>
+            ]]>
+          </section>
+        </stepElement>
+      </footerStep>
+    </tutorial>
+  </feature>
+</tutorialBundle>

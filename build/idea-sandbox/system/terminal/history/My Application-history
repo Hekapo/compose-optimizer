@@ -1,0 +1,1000 @@
+sudo apt install ulauncher_x.y.z_all.deb
+ls
+sudo apt install ulauncher_5.16.6_all.deb
+python3
+sudo apt update
+sudo apt upgrade
+sudo add-apt-repository universe -y && sudo add-apt-repository ppa:agornostal/ulauncher -y && sudo apt update && sudo apt install ulauncher
+$ sudo apt install gnome-terminal
+sudo apt install gnome-terminal
+sudo apt remove docker-desktop
+sudo apt update
+sudo apt upgrade
+sudo apt update
+cd ~/.local/share/Trash/*
+ls
+rm -rf ~/.local/share/Trash/*
+sudo apt update
+adb restart
+ls
+killall adb
+sudo nvidia -xconfig
+ubuntu-drivers devices
+lspci | grep -E "VGA|3D"
+sudo apt install nvidia-driver-545-open
+reboot
+history
+killall adb
+sudo apt update
+sudo apt install shadowsocks-libev
+sudo nano /etc/shadowsocks-libev/config.json
+sudo systemctl restart shadowsocks-libev.service
+systemctl status shadowsocks-libev.service
+sudo systemctl enable shadowsocks-libev.service
+sudo systemctl disable shadowsocks-libev.service
+systemctl status shadowsocks-libev.service
+sudo apt install shadowsocks-libev
+sudo systemctl stop shadowsocks-libev
+sudo systemctl disable shadowsocks-libev
+sudo cp /etc/shadowsocks-libev/config.json /etc/shadowsocks-libev/client01.json
+sudo nano /etc/shadowsocks-libev/client01.json
+sudo systemctl start shadowsocks-libev-local@client01.service
+sudo systemctl enable shadowsocks-libev-local@client01.service
+systemctl status shadowsocks-libev-local@client01.service
+sudo systemctl stop shadowsocks-libev-local@client01.service
+systemctl status shadowsocks-libev-local@client01.service
+sudo apt install pkg-config gettext build-essential autoconf libtool libpcre3-dev asciidoc xmlto libev-dev libudns-dev automake libmbedtls-dev libsodium-dev git libc-ares-dev devscripts equivs mk-build-deps
+sudo systemctl disable shadowsocks-libev-local@client01.service
+systemctl status shadowsocks-libev-local@client01.service
+sudo systemctl enable shadowsocks-libev-local@client01.service
+sudo systemctl start shadowsocks-libev-local@client01.service
+systemctl status shadowsocks-libev-local@client01.service
+sudo systemctl disable shadowsocks-libev-local@client01.service
+sudo systemctl stop shadowsocks-libev-local@client01.service
+systemctl status shadowsocks-libev-local@client01.service
+sudo nano /etc/shadowsocks-libev/client01.json
+fg
+history 
+$ sudo apt-key del 7fa2af80
+sudo apt-key del 7fa2af80
+sudo rpm --erase gpg-pubkey-7fa2af80*
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-keyring_1.0-1_all.deb
+sudo dpkg -i cuda-keyring_1.0-1_all.deb
+sudo apt-key del 7fa2af80
+wget https://developer.download.nvidia.com/compute/cuda/repos/$distro/$arch/cuda-keyring_1.0-1_all.deb
+sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/$distro/$arch/3bf863cc.pub
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-keyring_1.0-1_all.deb
+sudo dpkg -i cuda-keyring_1.0-1_all.deb
+sudo apt update
+sudo apt-get update rm /etc/apt/sources.list.d/cuda.list
+rm /etc/apt/sources.list.d/cuda.list
+sudo rm /etc/apt/sources.list.d/cuda.list
+cd etc
+ls
+cd ..
+ls
+cd ..
+ls
+cd etc/
+la
+cd apt
+ls
+sources.list.d/
+cd sources.list.d/
+ls
+nano cuda-ubuntu2004-x86_64.list 
+./gradlew clean build
+sudo apt-get -f
+git
+git clone https://github.com/saqib-github-commits/ComposeNavigationBestPractices.git
+пше
+git
+git clone https://github.com/saqib-github-commits/ComposeNavigationBestPractices.git
+sudo apt update
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-keyring_1.1-1_all.deb
+sudo dpkg -i cuda-keyring_1.1-1_all.deb
+sudo apt-get update
+sudo apt-get -y install cuda-toolkit-12-3
+nvcc --version
+nvidia-smi
+nvcc --version
+nvidia-smi
+nvcc --version
+nvcc
+sudo apt install nvidia-cuda-toolkit
+nvcc
+nvcc --version
+nvidia-smi
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-keyring_1.1-1_all.deb
+sudo dpkg -i cuda-keyring_1.1-1_all.deb
+sudo apt-get update
+sudo apt-get -y install cuda-toolkit-12-3
+sudo apt install build-essential
+sudo apt -y install gcc-7 g++-7 gcc-8 g++-8 gcc-9 g++-9
+gcc --version
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt update
+sudo apt-get install -y gcc-11 g++-11 cpp-11
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 110                       --slave /usr/bin/g++ g++ /usr/bin/g++-11                       --slave /usr/bin/gcov gcov /usr/bin/gcov-11                       --slave /usr/bin/gcc-ar gcc-ar /usr/bin/gcc-ar-11                       --slave /usr/bin/gcc-ranlib gcc-ranlib /usr/bin/gcc-ranlib-11
+udo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 110                       --slave /usr/bin/g++ g++ /usr/bin/g++-11 \
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 110                       --slave /usr/bin/g++ g++ /usr/bin/g++-11
+g++ --version
+./configure --prefix=/usr/local
+sudo make all install
+mpicc
+mpicc
+cmake -DCMAKE_C_COMPILER=/home/user/opt/openmpi/bin/mpicc -DCMAKE_CXX_COMPILER=/home/user/opt/openmpi/bin/mpicxx .
+cmake -DCMAKE_C_COMPILER=/usr/local/bin/mpicc -DCMAKE_CXX_COMPILER=/home/user/opt/openmpi/bin/mpicxx .
+sudo cp -r /home/iskandar/Загрузки/compat-wireless-3.5-3 /opе
+sudo cp -r /home/iskandar/Загрузки/compat-wireless-3.5-3 /opt
+sudo cp -r /home/iskandar/Загрузки/cmake-3.28.1-linux-x86_64.sh /opt
+ls
+chmod +x /opt/cmake-3.28.1-linux-x86_64.sh.sh
+sudo chmod +x cmake-3.28.1-linux-x86_64.sh.sh
+chmod +x /opt/cmake-3.28.1-linux-x86_64.sh
+sudo chmod +x /opt/cmake-3.28.1-linux-x86_64.sh
+sudo bash /opt/cmake-3.28.1-linux-x86_64.sh
+sudo ln -s /opt/cmake-3.28.1-linux-x86_64/bin/* /usr/local/bin
+cmake --version
+ls
+cd ..
+ls
+cd iskandar/
+ls
+cd opt
+cmake --version
+sudo apt remove cmake
+cd /usr/local/bin
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd opt
+ls
+cmake --version
+cd /home/user/opt/openmpi/bin/mpicc
+cmake --version
+history
+make
+cmake -DCMAKE_C_COMPILER=/home/user/opt/openmpi/bin/mpicc -DCMAKE_CXX_COMPILER=/home/user/opt/openmpi/bin/mpicxx .
+cmake -DCMAKE_C_COMPILER=/home/user/opt/openmpi/bin/mpicc -DCMAKE_CXX_COMPILER=/usr/local/bin/mpicxx .
+cmake -DCMAKE_C_COMPILER=/usr/local/bin/mpicc -DCMAKE_CXX_COMPILER=/usr/local/bin/mpicxx .
+mpic++ tdma_1d.cpp
+make
+cmake -f openmp main.cpp
+cmake -fopenmp main.cpp
+gcc main.cpp -o main.out
+gcc -fopenmp main.cpp -o main.out
+mpic++ main.cpp
+./a.out
+mpic++ main.cpp
+./a.out
+mpic++ main.cpp
+./a.out
+mpic++ main.cpp
+./a.out
+mpic++ main.cpp
+./a.out
+mpic++ main.cpp -fopenmp
+./a.out
+g++ -fopenmp main.cp
+./a.out
+mpic++ main.cpp -fopenmp -n 4
+mpic++ main.cpp -fopenmp -n 30
+mpic++ main.cpp -fopenmp -n30
+mpic++ main.cpp -fopenmp -np30
+mpic++ main.cpp -fopenmp -np 30
+mpic++ main.cpp -fopenmp -n 30
+mpic++ main.cpp 
+./a.out
+mpic++ main.cpp 
+./a.out
+mpiexec -np 30 main.cpp
+mpiexec -np 8 main.cpp
+mpiexec -np 1 main.cpp
+mpiexec -np 4 main.cpp
+sudo mpiexec -np 4 main.cpp
+mpic++ main.cpp
+mpiexec -np 4 a.out
+mpic++ main.cpp
+mpiexec -np 30 a.out
+mpic++ main.cpp
+mpiexec -np 12 a.out
+mpic++ main.cpp
+mpiexec -np 8 a.out
+mpic++ main.cpp
+mpiexec -np 4 a.out
+mpic++ main.cpp
+mpiexec -np 4 a.out
+mpic++ main.cpp
+mpiexec -np 4 a.out
+touch localhost
+cat localhost 
+mpirun --version
+./gradlew clean assembleCanaryDebug -P enableComposeCompilerReports=true
+sudo ./gradlew clean assembleCanaryDebug -P enableComposeCompilerReports=true
+git clone --recurse-submodules https://gitlab.com/mahaon-mobile/farmer-android.git
+sudo git clone --recurse-submodules https://gitlab.com/mahaon-mobile/farmer-android.git
+ls
+cd farmer-android/
+git submodule init
+git submodule update
+git
+sudo rm -r -f farmer-android/
+git submodule update
+sudo apt-get update
+sudo apt-get upgrade
+gradle signinReport
+gradle signingReport
+.\gradlew signingReport
+\.gradlew signingReport
+sudo
+sudo apt-get install bluez*1324
+sudo apt-get install bluez*
+sudo modprobe btusb
+sudo systemctl status bluetooth.service
+sudo systemctl restart bluetooth.service
+sudo systemctl status bluetooth.service
+sudo systemctl stop bluetooth.service
+sudo systemctl status bluetooth.service
+sudo systemctl enable bluetooth.service
+sudo systemctl status bluetooth.service
+sudo rfkill unblock bluetooth
+sudo systemctl status bluetooth.service
+sudo systemctl enable bluetooth.service
+sudo systemctl status bluetooth.service
+sudo systemctl enable bluetooth.service
+sudo systemctl restart bluetooth.service
+sudo systemctl status bluetooth.service
+sudo systemctl status bluetooth
+sudo rfkill unblock bluetooth
+sudo systemctl status bluetoot
+sudo systemctl status bluetooth.service
+sudo service bluetooth restart 
+sudo rmmod btusb
+sudo systemctl enable bluetooth
+sudo systemctl status bluetooth.service
+sudo systemctl restart bluetooth.service
+sudo systemctl status bluetooth.service
+sudo systemctl enable bluetooth.service
+sudo systemctl status bluetooth.service
+less /etc/update-manager/release-upgrades
+sudo apt update
+sudo apt upgrade
+git clone https://github.com/lordvidex/ros_src.git
+catkin_make
+ros
+catkin_ws
+cd ~/catkin_ws/src
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make
+sudo apt install catkin
+catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
+source /opt/ros/noetic/setup.bash
+sudo apt-get install ros-noetic-catkin
+sudo apt install catkin
+catkin_make
+catkin_create_pkg my_robot
+cd ~/catkin_ws/src
+ls
+catkin_create_pkg my_robot std_msgs rospy roscpp
+cd ~/catkin_ws/src
+ls
+cd ..
+ls
+catkin_make
+sudo apt-get install ros-melodic-roscpp
+ros
+history
+sudo apt-get install ros-noetic-roscpp
+catkin_make
+sudo apt-get install ros-noetic-rospy
+catkin_make
+sudo apt-get install ros-noetic-urdf
+catkin_make
+roslaunch pioneer2dx gazebo.launch
+roscore
+sudo apt install python3-roslaunch
+history
+roslaunch turtle_mover turtle_mover.launch
+sudo apt install ros-noetic-desktop-full
+roslaunch pioneer2dx gazebo.launch
+cd src
+roslaunch pioneer2dx gazebo.launch
+cd pioneer2dx/
+roslaunch pioneer2dx gazebo.launch
+roslaunch turtle_mover turtle_mover.launch
+roslaunch pioneer2dx gazebo.launch
+roslaunch gazebo.launch
+roslaunch turtle_mover turtle_mover.launch
+roslaunch turtle_mover turtle_mover.launch
+history 
+roslaunch turtle_ws turtle.launch
+cd devel/
+source setup.bash
+cd ..
+roslaunch turtle_ws turtle.launch
+cd ..
+roslaunch pioneer2dx gazebo.launch
+cd ..
+roslaunch pioneer2dx gazebo.launch
+cd ..
+rospack find tb_tables
+source /home/iskandar/catkin_ws/devel/setup.bash
+cd catkin_ws/
+cd src/
+roslaunch pioneer2dx gazebo.launch
+cd ..
+source devel/setup.bash
+roslaunch pioneer2dx gazebo.launch
+cd src
+roslaunch pioneer2dx gazebo.launch
+roslaunch pioneer2dx display.launch model:=pioneer2dx.xacro
+cd ..
+roslaunch pioneer2dx display.launch model:=pioneer2dx.xacro
+roslaunch pioneer2dx launch/display.launch model:=urdf/pioneer2dx.xacro
+source devel/setup.bash
+catkin_make
+roslaunch pioneer2dx display.launch model:=pioneer2dx.xacro
+source /opt/ros/kinetic/setup.bash
+source /opt/ros/noetic/setup.bash
+roslaunch pioneer2dx display.launch model:=pioneer2dx.xacro
+rosrun
+roslaunch pioneer2dx gazebo.launch
+roscore
+roslaunch turtle_mover turtle.launch
+ls
+roslaunch pioneer2dx gazebo.launch
+source devel/setup.bash
+roslaunch pioneer2dx gazebo.launch
+cd ssrc
+cd src
+roslaunch pioneer2dx gazebo.launch
+roslaunch pioneer2dx gazebo.launch model:=pioneer2dx.urdf
+rospack find move_turtle
+ls
+catkin_make
+cd ros_src/
+catkin_make
+roslaunch turtle_ws turtlebot_launch.launch
+ls
+cd src
+roslaunch turtle_ws turtlebot_launch.launch
+roslaunch
+cd ..
+cd launch/
+roslaunch turtlebot_launch.launch
+source /home/iskandar/turtle_ws/devel/setup.bash 
+roslaunch turtlebot_launch.launch
+cd ..
+catkin_make
+roslaunch turtlebot_launch.launch
+roslaunch turtle_mover turtle.launch
+source devel/setup.bash
+roslaunch turtle_mover turtle.launch
+cd src
+roslaunch turtle_mover turtle.launch
+cd ..
+cd turtle_mover/
+roslaunch turtle_mover turtle.launch
+history 
+rospack find pioneer2dx gazebo
+roslaunch pioneer2dx gazebo.launch
+ls
+source devel/setup.bash
+roslaunch pioneer2dx gazebo.launch
+roslaunch pioneer2dx gazebo.launch model:=pioneer2dx.urdf
+roslaunch pioneer2dx gazebo.launch model:=pioneer2dx.xacro
+gazebo
+catkin_make
+code .
+cd ..
+catkin_make
+cd src
+cd ..
+catkin_make
+cd ..
+source /opt/ros/noetic/setup.bash
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make
+source devel/setup.bash
+echo $ROS_PACKAGE_PATH
+catkin_create_pkg beginner_tutorials std_msgs rospy roscpp
+catkin_make
+cd src
+catkin_create_pkg beginner_tutorials std_msgs rospy roscpp
+cd ..
+catkin_make
+cd src
+roslaunch turtle_mover turtle_mover.launch
+св юю
+cd ..
+catkin_make
+cd src
+roslaunch pioneer
+roslaunch turtle_mover turtle_mover.launch
+roslaunch pioneer2dx gazebo.launch model:=pioneer2dx.xacro
+catkin_create_pkg my_robot std_msgs rospy
+git clone https://github.com/lordvidex/ros_src.git
+ды
+ls
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+echo $ROS_PACKAGE_PATH
+source catkin_ws/devel/setup.bash
+source ~catkin_ws/devel/setup.bash
+cd ..
+ls
+source devel/setup.bash
+echo $ROS_PACKAGE_PATH
+cd src
+roslaunch my_robot my_robot.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+roslaunch my_robot gazebo.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot gazebo.launch
+roslaunch my_robot my_robot.launch
+rosrun tf view_frames
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+history
+ls
+roslaunch my_robot my_robot.launch
+echo $ROS_PACKAGE_PATH
+source ~catkin_ws/devel/setup.bash
+source ~/catkin_ws/devel/setup.bash
+echo $ROS_PACKAGE_PATH
+roslaunch my_robot my_robot.launch
+rosrun tf view_frames
+roslaunch my_robot my_robot.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot my_robot.launch
+rviz
+gazebo
+rviz
+roswtf
+sudo apt-get install ros-noetic-gmapping
+rosnode list
+rostopic list
+rostopic echo /scan
+rostopic list
+rostopic info scan
+rostopic list
+rostopic info scan
+rostopic list
+rostopic info tf
+rostopic list
+rostopic info tf_static
+rostopic info clicked_point
+rostopic list
+rostopic echo scan
+rostopic echo /scan
+rqt_graph
+rostopic echo /scan
+rostopic echo /map
+cd src
+rosrun map_server map_saver -f my_map
+sudo apt-get install ros-noetic-gmapping
+rostopic list
+rostopic echo /camera/rgb/image_raw
+sudo apt-get install ros-noetic-navigation
+rosrun gmapping slam_gmapping scan:=scan
+rosrun gmapping slam_gmapping scan:=/map
+rosrun gmapping slam_gmapping scan:=map
+rosrun gmapping slam_gmapping scan:=scan
+rosrun gmapping slam_gmapping scan:=base_scan
+rosrun gmapping slam_gmapping scan:=scan
+roscore
+rosrun gmapping slam_gmapping scan:=scan
+roscore
+rosrun tf view_frames
+source ~/catkin_ws/devel/setup.bash
+rosrun map_server map_saver -f /home/iskandar/catkin_ws/src/my_robot/map_server
+roslaunch my_robot move_base.launch
+rosrun map_server map_saver -f /home/iskandar/catkin_ws/src/my_robot/my_map_server
+rosrun map_server map_saver -f /home/iskandar/catkin_ws/src/my_robot/map_server/my_map_server
+roslaunch my_robot move_base.launch
+history
+source ~catkin_ws/devel/setup.bash
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot amcl.launch
+roslaunch your_robot_package gmapping_demo.launch
+roslaunch my_robot  gmapping_demo.launch
+roslaunch my_robot gmapping_demo.launch
+roslaunch my_robot gmapping.launch
+rosrun map_server map_saver -f /path/to/your/map
+rosrun map_server map_saver -f /home/iskandar/catkin_ws/src/my_robot/map_server
+roslaunch my_robot amcl.launch
+roslaunch my_robot gmapping.launch
+roslaunch my_robot amcl.launch
+roslaunch my_robot gmapping.launch
+roslaunch my_robot amcl.launch
+roslaunch my_robot gmapping.launch
+rosrun map_server map_saver -f /home/iskandar/catkin_ws/src/my_robot/map_server
+roslaunch my_robot amcl.launch
+rostopic pub /my_robot/right_wheel_joint/command std_msgs/Float64 "data: 10.0"
+rostopic pub /my_robot/front_right_wheel_joint/command std_msgs/Float64 "data: 10.0"
+cd ..
+catkin_make
+cd src
+rostopic pub /my_robot/front_right_wheel_joint/command std_msgs/Float64 "data: 10.0"
+rostopic pub /my_robot/front_right_wheel_joint/command std_msgs/Float64 "data: 100.0"
+cd ..
+source devel/setup.bash
+cd src
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf\
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot amcl.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot amcl.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot amcl.launch
+rosrun gmapping slam_gmapping scan:=scan
+roslaunch my_robot amcl.launch
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot amcl.launch
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+catkin_make
+cd ..
+catkin_make
+cd src
+roslaunch pioneer2dx gazebo.launch model:=pioneer2dx.xacro
+roslaunch pioneer2dx gazebo.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+echo $ROS_PACKAGE_PATH
+cd ..
+source devel/setup.bash
+echo $ROS_PACKAGE_PATH
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+св юю
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+cd ..
+catkin_make
+cd src
+roslaunch my_robot my_robot.launch
+roslaunch pioneer2dx display.launch
+roslaunch my_robot gazebo.launch
+roslaunch my_robot gazebo.launch model:=/my_robot/urdf/my_robot.urdf
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src/
+roslaunch my_robot my_robot.launch
+roslaunch my_robot my_robot.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src/
+roslaunch my_robot my_robot.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src/
+roslaunch my_robot my_robot.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot my_robot.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/rviz.urdf
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch pioneer2dx display.launch
+rosnode list
+roslaunch pioneer2dx display.launch model:=pioneer2dx.xacro
+roslaunch pioneer2dx display.launch model:=/home/iskandar/catkin_ws/src/pioneer2dx/urdf/pioneer2dx.xacro
+rosnode list
+roslaunch pioneer2dx display.launch model:=/home/iskandar/catkin_ws/src/pioneer2dx/urdf/pioneer2dx.xacro
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+echo $ROS_PACKAGE_PATH
+cd ..
+source devel/setup.bash
+echo $ROS_PACKAGE_PATH
+cd src
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+echo $ROS_PACKAGE_PATH
+cd ..
+catkin_make
+cd src
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+rosrun map_server map_saver -f my_map
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+catkin_make
+cd src
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roscore
+rostopic list
+rosrun tf tf_echo map odom
+rqt_graph
+rosrun gmapping slam_gmapping scan:=<your_lidar_topic>
+rosrun gmapping slam_gmapping scan:=scan
+rosrun gmapping slam_gmapping scan:=/scan
+rosrun tf tf_echo /map /odom
+rosrun echo scan
+rostopic echo scan
+rostopic list
+rostopic echo scan
+rosrun tf tf_echo root_link map
+roscore
+rosnode list | grep map_server
+rostopic echo /map_metadata
+sudo apt-get install ros-noetic-navigation
+roscore
+rosrun my_robot move_base.launch
+cd ..
+source ~/devel/setup.bash
+source ~./devel/setup.bash
+cd ..
+source devel/setup.bash
+cd src
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+source ~/catkin_ws/devel/setup.bahs
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+source ~/catkin_ws/devel/setup.bash
+source ~/catkin_ws/devel/setup.bash
+roslaucnh my_robot move_base.launch
+roslaunch my_robot move_base.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+source ~/catkin_ws/devel/setup.bash
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot move_base.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+roslaunch my_robot amcl.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot amcl.launch
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot rviz.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+cd ..
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+source ~/catkin_ws/devel/setup.bash
+roslaunch my_robot gazebo.launch model:=/home/iskandar/catkin_ws/src/my_robot/urdf/my_robot.urdf
+rosrun rqt_tf
+rosrun rqt_tf_tree rqt_tf_tree 
+rostopic list
+rostopic echo /particlecloud
+rostopic echo /amcl_pose
+apt update && apt upgrade -y
+sudo apt update && apt upgrade -y
+df -h
+sudo apt update
+sudo apt установить deja-dup
+sudo apt install deja-dup
+dpkg --get-selections | grep -v deinstall > backup.txt
+sudo apt dist-upgrade
+sudo apt autoremove
+sudo do-release-upgrade -f DistUpgradeViewGtk3
+tar xzf jetbrains-toolbox-2.2.1.19765.tar.gz
+sudo apt update
+sudo apt upgrade
+clear
+sudo apt install libfuse2
+sudo apt-get remove ros-*
+sudo apt install libfuse2
+tar -xzf jetbrains-toolbox-2.2.1.19765.tar.gz --one-top-level=jetbrains --strip-components 1
+cd jetbrains
+./jetbrains-toolbox 
+sudo apt update && sudo apt install locales
+sudo locale-gen en_US en_US.UTF-8
+sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
+export LANG=en_US.UTF-8
+sudo apt update && sudo apt install curl gnupg2 lsb-releas
+sudo apt update && sudo apt install curl gnupg2 lsb-release
+curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+sudo sh -c 'echo "deb [arch=$(dpkg --print-architecture)] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros2.list'
+sudo apt update
+sudo apt install ros-humble-desktop
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+pip3 install setuptools==58.2.0
+python3 install setuptools==58.2.0
+pip
+pip3
+sudo apt install python3-pip
+python3 install setuptools==58.2.0
+pip3 install setuptools==58.2.0
+source ~/.bashrc
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+ros
+source /opt/ros/humble/setup.bash
+echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+ros2 run demo_nodes_cpp talker
+ros2 run demo_nodes_py listener
+$HOME/.bashrc
+sudo $HOME/.bashrc
+sudo echo $HOME/.bashrc
+sudo cat $HOME/.bashrc
+sudo less $HOME/.bashrc
+sudo nano $HOME/.bashrc
+source ~/.bashrc
+sudo apt-get update
+sudo apt upgrade
+git clone https://gitlab.enot.work/vpn/vpn-android.git
+nmcli
+nvidia-smi
+git fetch fix/AC-141_calendar_saving&color
+git status
+git fetch fix/AC-141_calendar_saving&colors
+git fetch origin fix/AC-141_calendar_saving&colors
+git fetch origin 'fix/AC-141_calendar_saving&colors'
+git pull --rebase 'fix/AC-141_calendar_saving&colors'
+git pull --rebase origin 'fix/AC-141_calendar_saving&colors'
+sudo apt update
+sudo apt upgeade
+sudo apt upgrade
+printenv | grep -i ROS
+sudo apt update
+sudo apt install ros-humble-turtlesim
+ros2 pkg executables turtlesim
+ros2 run turtlesim turtlesim_node
+ros2 run turtlesim turtle_teleop_key
+sudo apt install ~nros-humble-rqt*
+ros2 run turtlesim turtlesim_node
+rqt
+sudo apt install ~nros-humble-rqt*
+rqt
+rqt --force-discover
+ros2 pkg executables turtlesim
+ros2 run turtlesim turtlesim_node
+history 
+source ~/.bashrc 
+ros2 run turtlesim turtle_teleop_key
+cd src
+mkdir src
+cd src
+git clone https://github.com/jayprajapati009/beginner_tutorials_ros2.git
+source ~/.bashrc 
+rqt
+sudo apt install python3-colcon-common-extensions
+mkdir -p ~/ros2_ws/src
+cd ~/ros2_ws
+cd src
+git clone https://github.com/ros2/examples src/examples -b humble
+colcon build --symlink-install
+cd ..
+colcon build
+colcon build --symlink-install
+colcon test
+[200~source install/setup.bash
+source install/setup.bash
+ros2 run examples_rclcpp_minimal_subscriber subscriber_member_function
+ros2 run examples_rclcpp_minimal_publisher publisher_member_function
+ros2 pkg create
+source /opt/ros/humble/setup.bash
+source install/local_setup.bash
+ros2 run turtlesim turtlesim_node
+colcon build
+ros2 run turtlesim turtlesim_node
+cd src
+ros2 pkg create --build-type ament_cmake --license Apache-2.0 <package_name>
+ros2 pkg create --build-type ament_cmake --license Apache-2.0 my_package
+ros2 pkg create --build-type ament_cmake --license Apache-2.0 --node-name my_node my_package
+cd ..
+colcon build
+colcon build --packages-select my_package
+sudo apt install python3-colcon-common-extensions
+cd ~/ros2_ws
+git clone https://github.com/ros2/examples src/examples -b humble
+cd ..
+cd ros2_ws/
+colcon build --symlink-install
+colcon test
+source install/setup.bash
+colcon test
+ls
+source install/setup.bash
+colcon build
+source install/setup.bash
+cd src
+git clone https://github.com/ros2/examples src/examples -b humble
+cd ..
+colcon build --symlink-install
+colcon test
+source install/setup.bash
+ros2 run examples_rclcpp_minimal_subscriber subscriber_member_function
+echo "source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash" >> ~/.bashrc
+apt-get install python3-rosdep
+sudo apt-get install python3-rosdep
+cd src
+git clone https://github.com/ros/ros_tutorials.git -b humble
+cd ..
+rosdep install -i --from-path src --rosdistro humble -y
+colcon build
+cd ..
+mkdir -p ~/ros2_ws_2/src
+cd ~/ros2_ws_2/src
+git clone https://github.com/ros/ros_tutorials.git -b humble
+cd ..
+rosdep install -i --from-path src --rosdistro humble -y
+colcon build
+source /opt/ros/humble/setup.bash
+colcon build
+cd src/
+git clone https://github.com/ros/ros_tutorials.git -b humble
+cd ..
+ls
+. install/setup.bash
+ls
+cd src/
+ls
+ros2 run cpp_pubsub talker
+ros2 run py_pubsub talker
+cd py_pubsub/
+ros2 run py_pubsub talker
+. install/setup.bash
+cd ..
+. install/setup.bash
+cd src
+ros2 run cpp_pubsub listener
+source install/setup.bash
+cd ..
+source install/setup.bash
+cd src
+ls
+ros2 run py_pubsub listener
+ros2 run cpp_srvcli server
+ls
+source install/local_setup.bash
+ros2 run my_package my_node
+cd src
+cd my_package/
+ls
+cd ..
+ros2 pkg create --build-type ament_cmake --license Apache-2.0 cpp_pubsub
+wget -O publisher_member_function.cpp https://raw.githubusercontent.com/ros2/examples/humble/rclcpp/topics/minimal_publisher/member_function.cpp
+cd cpp_pubsub/src
+wget -O subscriber_member_function.cpp https://raw.githubusercontent.com/ros2/examples/humble/rclcpp/topics/minimal_subscriber/member_function.cpp
+ls
+cd ~/.ros2_ws_2
+cd ~/ros2_ws_2
+rosdep
+rosdep install -i --from-path src --rosdistro humble -y
+colcon build --packages-select cpp_pubsub
+ros2 run cpp_pubsub talker
+cd src
+ros2 pkg create --build-type ament_python --license Apache-2.0 py_pubsub
+cd ros2_ws/src/py_pubsub/py_pubsub
+cd py_pubsub/
+wget https://raw.githubusercontent.com/ros2/examples/humble/rclpy/topics/minimal_publisher/examples_rclpy_minimal_publisher/publisher_member_function.py
+cd ..
+cd py_pubsub/
+wget https://raw.githubusercontent.com/ros2/examples/humble/rclpy/topics/minimal_subscriber/examples_rclpy_minimal_subscriber/subscriber_member_function.py
+ls
+cd ~/ros2_ws_2
+rosdep install -i --from-path src --rosdistro humble -y
+colcon build --packages-select py_pubsub
+source install/setup.bash
+cd ..
+source install/setup.bash
+cd src
+ros2 run cpp_srvcli client 2 3
+ls
+ros2 run cpp_srvcli client 2 3
+source install/setup.bash
+cd src
+ros2 run cpp_srvcli server
+ros2 run py_srvcli service
+cd src
+cd ..
+source install/setup.bash
+cd src
+ros2 run cpp_srvcli client 2 3
+ls
+ros2 run cpp_srvcli client 2 3
+ros2 pkg create --build-type ament_python --license Apache-2.0 py_srvcli --dependencies rclpy example_interfaces
+cd py_srvcli/
+touch service_member_function.py
+touch client_member_function.py
+source install/setup.bash
+ros2 run py_srvcli service
+source install/setup.bash
+ros2 run py_srvcli client 2 3
+source install/setup.bash
+cd ..
+source install/setup.bash
+cd src
+ros2 interface show tutorial_interfaces/msg/Num
+ros2 interface show tutorial_interfaces/msg/Sphere
+ros2 interface show tutorial_interfaces/srv/AddThreeInts
+ros2 interface show tutorial_interfaces/msg/Num
+source install/setup.bash
+ros2 run cpp_pubsub talker
+ros2 run py_pubsub talker
+source install/setup.bash
+ros2 run cpp_pubsub listener
+source install/setup.bash
+ros2 run py_pubsub talker
+source install/setup.bash
+ros2 run py_pubsub talker
+source install/setup.bash
+ros2 run py_pubsub talker
+ros2 run py_pubsub listener
+source install/setup.bash
+ros2 run py_pubsub talker
+source install/setup.bash
+ros2 run py_pubsub talker
+source install/setup.bash
+ros2 run py_pubsub talker
+ros2 run turtlesim turtlesim_node
+кйе
+rqt
+ros2 run turtlesim turtlesim_node
+ros2 run turtlesim turtle_teleop_key
+ros2 run turtlesim turtlesim_node
+ros2 run turtlesim turtle_teleop_key --ros-args --remap turtle1/cmd_vel:=turtle2/cmd_vel
+cd //
+ource install/setup.bash
+source install/setup.bash
+cd ..
+source install/setup.bash
+cd src
+ros2 run cpp_srvcli client 2 3
+ros2 run cpp_srvcli client 2 3 1
+ros2 run cpp_srvcli client 2 3 7
+ros2 run cpp_pubsub listener
+cd ..
+source install/setup.bash
+colcon build --packages-select cpp_srvcli
+cd src
+ros2 run cpp_srvcli server
+cd ..
+colcon build --packages-select py_pubsub
+ros2 run py_pubsub talker
+colcon build --packages-select cpp_pubsub
+ros2 run cpp_pubsub talker
+./gradlew clean assembleRelease -P enableComposeCompilerReports=true

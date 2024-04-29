@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <option name="LAST_BUILD_CHECKED" value="AI-241.14494.240.2411.11731683" />
+    <option name="LAST_TIME_CHECKED" value="1714415550696" />
+    <option name="OBSOLETE_CUSTOM_REPOSITORIES_CLEAN_NEEDED" value="false" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="233" />
+  </component>
+</application>

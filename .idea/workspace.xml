@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="015eab83-7f85-4914-aa13-04f611aff2a4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_sync>
+              <task name="setupDependencies" />
+            </after_sync>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="compose-optimizer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="compose-optimizer" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="compose-optimizer" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2a7KDxWb3NdJOKCm7zE1G2IaFZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.Build compose-optimizer.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Run Plugin.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Run Qodana.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.compose-optimizer [setupDependencies].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/iskandar/IdeaProjects/vkompose&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/home/iskandar/.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/github/hekapo/composeoptimizer/ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/github/hekapo/composeoptimizer/util" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/github/hekapo/composeoptimizer" />
+      <recent name="$PROJECT_DIR$/core-common/src/main/kotlin/com/twitter/rules/core/util" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.github.hekapo.composeoptimizer.inspections.stability" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Run Plugin">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015eab83-7f85-4914-aa13-04f611aff2a4" name="Changes" comment="" />
+      <created>1703664062670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703664062670</updated>
+      <workItem from="1703664065106" duration="994000" />
+      <workItem from="1703665594649" duration="4875000" />
+      <workItem from="1703833900679" duration="840000" />
+      <workItem from="1708616290452" duration="3899000" />
+      <workItem from="1709122137862" duration="48000" />
+      <workItem from="1709151571442" duration="1644000" />
+      <workItem from="1709570334787" duration="671000" />
+      <workItem from="1709571010512" duration="1452000" />
+      <workItem from="1709583597323" duration="4197000" />
+      <workItem from="1709588516974" duration="4592000" />
+      <workItem from="1709622851625" duration="1050000" />
+      <workItem from="1709665737573" duration="3324000" />
+      <workItem from="1709740547680" duration="21000" />
+      <workItem from="1709745429778" duration="599000" />
+      <workItem from="1710104227026" duration="3642000" />
+      <workItem from="1710281566682" duration="3341000" />
+      <workItem from="1710349021653" duration="2059000" />
+      <workItem from="1710366885774" duration="2871000" />
+      <workItem from="1710412918414" duration="1630000" />
+      <workItem from="1710431770323" duration="408000" />
+      <workItem from="1710450087485" duration="599000" />
+      <workItem from="1710517447217" duration="5207000" />
+      <workItem from="1710533555301" duration="12906000" />
+      <workItem from="1710748906885" duration="717000" />
+      <workItem from="1710786662528" duration="617000" />
+      <workItem from="1710788272071" duration="99000" />
+      <workItem from="1710866930637" duration="952000" />
+      <workItem from="1711049654345" duration="1272000" />
+      <workItem from="1711365074463" duration="49000" />
+      <workItem from="1711365132037" duration="2478000" />
+      <workItem from="1711825210607" duration="7896000" />
+      <workItem from="1711910817000" duration="2509000" />
+      <workItem from="1712183041292" duration="1238000" />
+      <workItem from="1712607648837" duration="1084000" />
+      <workItem from="1713030940209" duration="47000" />
+      <workItem from="1713100651055" duration="10051000" />
+      <workItem from="1713282810359" duration="62000" />
+      <workItem from="1713385277192" duration="1261000" />
+      <workItem from="1714382582591" duration="1297000" />
+      <workItem from="1714389575702" duration="12688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

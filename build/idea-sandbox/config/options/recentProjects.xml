@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application – compose_compiler_config.conf [My_Application]" opened="true" projectWorkspaceId="2dEU2K4jObofEuvBFH7fli4eoSg">
+              <option name="activationTimestamp" value="1714416081427" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.8660.185" />
+              <option name="buildTimestamp" value="1690347711548" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="426" y="1467" width="1856" height="1053" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1709589726881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+  </component>
+</application>

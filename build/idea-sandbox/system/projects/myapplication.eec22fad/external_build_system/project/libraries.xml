@@ -1,0 +1,724 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity-compose:1.8.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/febcdaccaa5f48807ef6f3ed189fd047/transformed/activity-compose-1.8.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/febcdaccaa5f48807ef6f3ed189fd047/transformed/activity-compose-1.8.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/febcdaccaa5f48807ef6f3ed189fd047/transformed/activity-compose-1.8.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-compose/1.8.2/6c5ebff07639f79cfcf9f86a3e08a7c9397748f8/activity-compose-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.activity:activity-ktx:1.8.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/270dc0543bb92ccc485f3acb9a1d27c7/transformed/activity-ktx-1.8.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/270dc0543bb92ccc485f3acb9a1d27c7/transformed/activity-ktx-1.8.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/270dc0543bb92ccc485f3acb9a1d27c7/transformed/activity-ktx-1.8.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.8.2/547c83f632a6ffc79c2ed38a2211cea23a8358c1/activity-ktx-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.activity:activity:1.8.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/353b7fbd7aaf2b2642d4088f58832a6c/transformed/activity-1.8.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/353b7fbd7aaf2b2642d4088f58832a6c/transformed/activity-1.8.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/353b7fbd7aaf2b2642d4088f58832a6c/transformed/activity-1.8.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.8.2/4db2a2efa9046d2bde019dddc6c857c8f67a50cf/activity-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.annotation:annotation-experimental:1.4.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/b2d5247407b7e128ce5fe77470b97242/transformed/annotation-experimental-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/b2d5247407b7e128ce5fe77470b97242/transformed/annotation-experimental-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/b2d5247407b7e128ce5fe77470b97242/transformed/annotation-experimental-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.4.0/4dc003cb3c5ff16a1c3d09f3d1f7ae7b2d14a9c4/annotation-experimental-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.annotation:annotation-jvm:1.7.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="androidx.annotation" artifactId="annotation-jvm" version="1.7.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.7.0/920472d40adcdef5e18708976b3e314f9a636fcd/annotation-jvm-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.7.0/db7fa03a3e5ae4cc48af00b8a990c2fa162f057f/annotation-jvm-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.arch.core:core-common:2.2.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="androidx.arch.core" artifactId="core-common" version="2.2.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/f3ac1460fc6844d5441595a34591af7fc04fd2e5/core-common-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.collection:collection-jvm:1.4.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="androidx.collection" artifactId="collection-jvm" version="1.4.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.4.0/e209fb7bd1183032f55a0408121c6251a81acb49/collection-jvm-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.4.0/d85f9e6eecd7ec453dd808c6429dd84650112ac4/collection-jvm-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.animation:animation-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/54d60d3369d1358242cf5be787bac186/transformed/animation-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/54d60d3369d1358242cf5be787bac186/transformed/animation-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/54d60d3369d1358242cf5be787bac186/transformed/animation-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-android/1.6.2/22e0eb3f955b01f383e6f7cda43646b887cc0f37/animation-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.animation:animation-core-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/d8c2539d1cce372c4cf2dcf638663d89/transformed/animation-core-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/d8c2539d1cce372c4cf2dcf638663d89/transformed/animation-core-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/d8c2539d1cce372c4cf2dcf638663d89/transformed/animation-core-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-core-android/1.6.2/850b59ca441485047c2c3cc7d1ba44088757c18b/animation-core-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.foundation:foundation-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/7db903cb14ff17ecf22443577a13a486/transformed/foundation-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/7db903cb14ff17ecf22443577a13a486/transformed/foundation-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/7db903cb14ff17ecf22443577a13a486/transformed/foundation-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.6.2/eb5b58820dd240aedba1ffb42a407667deaf0f30/foundation-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.foundation:foundation-layout-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/33e7a0db3c6907e28b0d56f854e10d08/transformed/foundation-layout-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/33e7a0db3c6907e28b0d56f854e10d08/transformed/foundation-layout-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/33e7a0db3c6907e28b0d56f854e10d08/transformed/foundation-layout-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.6.2/d7c6460aadb876c0399f1892d695617e731f1e47/foundation-layout-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.material3:material3-android:1.2.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/9cbbd88f7e75bf5ba151efeac21963bf/transformed/material3-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9cbbd88f7e75bf5ba151efeac21963bf/transformed/material3-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9cbbd88f7e75bf5ba151efeac21963bf/transformed/material3-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.2.0/adaddf964a3b57a556038b8603355de93ce6e522/material3-android-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.material:material-icons-core-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/5f1e7275b62ac855df8a444c13ac66dc/transformed/material-icons-core-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5f1e7275b62ac855df8a444c13ac66dc/transformed/material-icons-core-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5f1e7275b62ac855df8a444c13ac66dc/transformed/material-icons-core-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-icons-core-android/1.6.2/e518df0d8a19c3833f72a24ff667853015e340fd/material-icons-core-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.material:material-ripple-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/99ceca29ded8b6d37f26c35265843077/transformed/material-ripple-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/99ceca29ded8b6d37f26c35265843077/transformed/material-ripple-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/99ceca29ded8b6d37f26c35265843077/transformed/material-ripple-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-ripple-android/1.6.2/5658994fca2cfab39445d8960d9609737b5f71be/material-ripple-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.runtime:runtime-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/736f450d8216ed60045a169bf9af67c3/transformed/runtime-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/736f450d8216ed60045a169bf9af67c3/transformed/runtime-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/736f450d8216ed60045a169bf9af67c3/transformed/runtime-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.6.2/7fa9cefb65b6137c575dc810aabcb77330d74d38/runtime-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.runtime:runtime-saveable-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/4c977c620375160e9d3dc134e66003c6/transformed/runtime-saveable-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/4c977c620375160e9d3dc134e66003c6/transformed/runtime-saveable-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/4c977c620375160e9d3dc134e66003c6/transformed/runtime-saveable-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-android/1.6.2/e36ff9886898fcb4c455c2e9901391f49c6574b5/runtime-saveable-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-android:1.6.2@aar" __external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/382a4ea30835afc194584070f49aa949/transformed/ui-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/382a4ea30835afc194584070f49aa949/transformed/ui-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/382a4ea30835afc194584070f49aa949/transformed/ui-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/382a4ea30835afc194584070f49aa949/transformed/ui-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.6.2/d49f491345a23451e6155b6c3823b2ad31be4a9c/ui-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-geometry-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/77e524819bd0aa0ad7dd6c61b0fb2179/transformed/ui-geometry-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/77e524819bd0aa0ad7dd6c61b0fb2179/transformed/ui-geometry-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/77e524819bd0aa0ad7dd6c61b0fb2179/transformed/ui-geometry-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-geometry-android/1.6.2/2b167ccf642bf99c919cfa98bee1676e8335d1dc/ui-geometry-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-graphics-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/74c9f23c9761fc9798c6fd13bf728178/transformed/ui-graphics-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/74c9f23c9761fc9798c6fd13bf728178/transformed/ui-graphics-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/74c9f23c9761fc9798c6fd13bf728178/transformed/ui-graphics-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-graphics-android/1.6.2/1298b90ac426648ecdcf197c8b1cfe137b7c433f/ui-graphics-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-test-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/cae75b4e9cd02ce187f552f204526126/transformed/ui-test-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/cae75b4e9cd02ce187f552f204526126/transformed/ui-test-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/cae75b4e9cd02ce187f552f204526126/transformed/ui-test-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-android/1.6.2/574c3552265032379904fa84fb6139bd0dc3c64e/ui-test-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-test-junit4-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/4101100ecd0866bec7ad2b8aad879acc/transformed/ui-test-junit4-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/4101100ecd0866bec7ad2b8aad879acc/transformed/ui-test-junit4-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/4101100ecd0866bec7ad2b8aad879acc/transformed/ui-test-junit4-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-junit4-android/1.6.2/45f5c026212e169ae0985c4ba41add3bc81a2583/ui-test-junit4-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-test-manifest:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/5907e7b777848b749428b6455878f264/transformed/ui-test-manifest-1.6.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5907e7b777848b749428b6455878f264/transformed/ui-test-manifest-1.6.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5907e7b777848b749428b6455878f264/transformed/ui-test-manifest-1.6.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-manifest/1.6.2/2ad14aed781c4a73ed4dbb421966d408a0a06686/ui-test-manifest-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-text-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/1a73d821f51127929da95152feea31a8/transformed/ui-text-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/1a73d821f51127929da95152feea31a8/transformed/ui-text-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/1a73d821f51127929da95152feea31a8/transformed/ui-text-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-text-android/1.6.2/2a2485216a805d84109cd63cd8d4e2e5a5cadb5e/ui-text-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-tooling-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/58a35043070c7b63953235df96481582/transformed/ui-tooling-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/58a35043070c7b63953235df96481582/transformed/ui-tooling-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/58a35043070c7b63953235df96481582/transformed/ui-tooling-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-android/1.6.2/c5462dd57a2e392ac2dfcfcc07b694c793c82a73/ui-tooling-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-tooling-data-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/8ecbd136a4e6378c7c2211b4992ee8fc/transformed/ui-tooling-data-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/8ecbd136a4e6378c7c2211b4992ee8fc/transformed/ui-tooling-data-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/8ecbd136a4e6378c7c2211b4992ee8fc/transformed/ui-tooling-data-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-data-android/1.6.2/106401abfb0f95e83de0d129bc8443122809bacd/ui-tooling-data-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-tooling-preview-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/d9038abe1beda4aa28e98c70dc29cf24/transformed/ui-tooling-preview-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/d9038abe1beda4aa28e98c70dc29cf24/transformed/ui-tooling-preview-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/d9038abe1beda4aa28e98c70dc29cf24/transformed/ui-tooling-preview-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-preview-android/1.6.2/c1cc66505a91b370b6f456d88ab4eba3400300f7/ui-tooling-preview-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-unit-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/cb5d5d74791257b07fef31f07a9cd331/transformed/ui-unit-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/cb5d5d74791257b07fef31f07a9cd331/transformed/ui-unit-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/cb5d5d74791257b07fef31f07a9cd331/transformed/ui-unit-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit-android/1.6.2/b9b3e53b3ee319c34765d6cf8cebbaed01e25af0/ui-unit-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.compose.ui:ui-util-android:1.6.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/f8cd9d592e7c7c772cd9cc39634aa3a6/transformed/ui-util-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/f8cd9d592e7c7c772cd9cc39634aa3a6/transformed/ui-util-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/f8cd9d592e7c7c772cd9cc39634aa3a6/transformed/ui-util-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-util-android/1.6.2/c226e92fd11dfab72261220b7ba604984aa8fbfb/ui-util-android-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.concurrent:concurrent-futures:1.1.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="androidx.concurrent" artifactId="concurrent-futures" version="1.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/50b7fb98350d5f42a4e49704b03278542293ba48/concurrent-futures-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/a27842adf6c42f3d80893bd46e1de4ac024218e7/concurrent-futures-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.core:core-ktx:1.12.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/5e87c6feb790c538f2de886ec6ae8cfd/transformed/core-ktx-1.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5e87c6feb790c538f2de886ec6ae8cfd/transformed/core-ktx-1.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5e87c6feb790c538f2de886ec6ae8cfd/transformed/core-ktx-1.12.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.12.0/e6c10584acda1ffeb12bf3bee451bed5ffbe2705/core-ktx-1.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.core:core:1.12.0@aar" __external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/82a529f56db28eb2091e6db99909d553/transformed/core-1.12.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/82a529f56db28eb2091e6db99909d553/transformed/core-1.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/82a529f56db28eb2091e6db99909d553/transformed/core-1.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/82a529f56db28eb2091e6db99909d553/transformed/core-1.12.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.12.0/696658fc9147f9bb2e04c64f77fa0c8a603583d/core-1.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-common:2.7.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="androidx.lifecycle" artifactId="lifecycle-common" version="2.7.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.7.0/85334205d65cca70ed0109c3acbd29e22a2d9cb1/lifecycle-common-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.7.0/de4ccde9dba9e5c3454dd325535aab954ebe94bc/lifecycle-common-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.7.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/85aba3dd5c746f9df3e311ad48187605/transformed/lifecycle-livedata-core-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/85aba3dd5c746f9df3e311ad48187605/transformed/lifecycle-livedata-core-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/85aba3dd5c746f9df3e311ad48187605/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.7.0/148c40c69e28eb19bdf817bef6e7b0f24bfa51f9/lifecycle-livedata-core-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.7.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/fd92ca16c9e3f188e99ec8b5e090d872/transformed/lifecycle-runtime-ktx-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/fd92ca16c9e3f188e99ec8b5e090d872/transformed/lifecycle-runtime-ktx-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/fd92ca16c9e3f188e99ec8b5e090d872/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-ktx/2.7.0/7b0a2de553c0359c8890577f015303a04219b6c5/lifecycle-runtime-ktx-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.7.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/fd214d8708d0edf4f6fb62d0c9f269f7/transformed/lifecycle-runtime-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/fd214d8708d0edf4f6fb62d0c9f269f7/transformed/lifecycle-runtime-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/fd214d8708d0edf4f6fb62d0c9f269f7/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.7.0/3b9fd825868268670401263d41e09e1ec80a3e23/lifecycle-runtime-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/33cff0ce08e2898249b78fc2b26c84f5/transformed/lifecycle-viewmodel-ktx-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/33cff0ce08e2898249b78fc2b26c84f5/transformed/lifecycle-viewmodel-ktx-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/33cff0ce08e2898249b78fc2b26c84f5/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.7.0/a96d165dc6197241de8dd3a77779d86e3d44e920/lifecycle-viewmodel-ktx-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/9edb4e2c4ca10b4620a45ff03c4d43df/transformed/lifecycle-viewmodel-savedstate-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9edb4e2c4ca10b4620a45ff03c4d43df/transformed/lifecycle-viewmodel-savedstate-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9edb4e2c4ca10b4620a45ff03c4d43df/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.7.0/cbf132838873372144077f5c6da9502248505d7c/lifecycle-viewmodel-savedstate-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.7.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/70ac132157749f4af5cb414ed8fe52fc/transformed/lifecycle-viewmodel-2.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/70ac132157749f4af5cb414ed8fe52fc/transformed/lifecycle-viewmodel-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/70ac132157749f4af5cb414ed8fe52fc/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.7.0/c4f0ffe7a451136f33c07c6c3cab550688b1e819/lifecycle-viewmodel-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.savedstate:savedstate-ktx:1.2.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/9ecbfff7bb10575ef62a342d72984140/transformed/savedstate-ktx-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9ecbfff7bb10575ef62a342d72984140/transformed/savedstate-ktx-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9ecbfff7bb10575ef62a342d72984140/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-ktx/1.2.1/396eb83ce13cac3986e1e8a8b60f60ac0447ffbf/savedstate-ktx-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.savedstate:savedstate:1.2.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/0d10c7d599382d0937801ea9c17df6cc/transformed/savedstate-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/0d10c7d599382d0937801ea9c17df6cc/transformed/savedstate-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/0d10c7d599382d0937801ea9c17df6cc/transformed/savedstate-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.2.1/58d4c9fd35e826d3bce813974006451ee9ba4344/savedstate-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test.espresso:espresso-core:3.5.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/acc6ad3e5b2b0975e3c44dbd11ab6e55/transformed/espresso-core-3.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/acc6ad3e5b2b0975e3c44dbd11ab6e55/transformed/espresso-core-3.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.5.1/5aa814b4dae9b17188d620668107d85e687388de/espresso-core-3.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.5.1/50bb4dd95e68eb3fdc986995afab6730be477cdb/espresso-core-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test.espresso:espresso-idling-resource:3.5.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/ae26359942171bda6ee08ac8be68ac21/transformed/espresso-idling-resource-3.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/ae26359942171bda6ee08ac8be68ac21/transformed/espresso-idling-resource-3.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.5.1/331f1323e408dc60d9a8bea1eb40a2aa569f8091/espresso-idling-resource-3.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.5.1/7dd3d807f81bd316fe725ad5ab60f7afdad14607/espresso-idling-resource-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test.ext:junit:1.1.5@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/991f9c9e5fdc5b0bed9cbd17ce86a9e4/transformed/junit-1.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/991f9c9e5fdc5b0bed9cbd17ce86a9e4/transformed/junit-1.1.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.5/ee5294c4eb3c3b3ba1d1b0a347ee5d902b1748ee/junit-1.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.5/e59336d689cf66c42c13a8505fbd83826163431f/junit-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test.services:storage:1.4.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/65808dc8f092e9ae2e90dc2a0d25e269/transformed/storage-1.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/65808dc8f092e9ae2e90dc2a0d25e269/transformed/storage-1.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2/edb6438b0e7e21c66b22184eebdb13cd5167161a/storage-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2/7653e58ad020a74392900229f15971ffb69d57ea/storage-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test:annotation:1.0.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/273974b4da18e4b4ab3f244a15dcb663/transformed/annotation-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/273974b4da18e4b4ab3f244a15dcb663/transformed/annotation-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/annotation/1.0.1/d922fcf4c7ae6c3b54012d21e594409c6c6ac156/annotation-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test:core:1.5.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/f5dae80955358daccb703cb5516708f9/transformed/core-1.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/f5dae80955358daccb703cb5516708f9/transformed/core-1.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/f5dae80955358daccb703cb5516708f9/transformed/core-1.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.5.0/50a7c88bc23efab4bed11093b47197d11ab3d5a0/core-1.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.5.0/d4ea5ffd68fc05c1e952467fb884f0d82b44ec3b/core-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test:monitor:1.6.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/eb27ed9c1380b67c53731e8823621686/transformed/monitor-1.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/eb27ed9c1380b67c53731e8823621686/transformed/monitor-1.6.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.6.1/87046c506f644e8c889827b7a5ab9917c8235a23/monitor-1.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.6.1/1e73d3074dcfe62111deab415fb4232386e74d71/monitor-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.test:runner:1.5.2@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/5d8dc53612299f132b8f8ad5c0176e55/transformed/runner-1.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/5d8dc53612299f132b8f8ad5c0176e55/transformed/runner-1.5.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.5.2/6f61644c4619fe5390973846edfd7704d0db55fd/runner-1.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.5.2/afd05fc4f8a8375097741bd497654ccbefd63b89/runner-1.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.tracing:tracing:1.0.0@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/4b52e49294fcdc274fb2ce8dc8fb82f7/transformed/tracing-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/4b52e49294fcdc274fb2ce8dc8fb82f7/transformed/tracing-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.tracing/tracing/1.0.0/aa6dafdce323d80a993c5427cf81d5072f023c8c/tracing-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" __external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/00cbf8e740583d4af5f02fbc502c0377/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/00cbf8e740583d4af5f02fbc502c0377/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.versionedparcelable/versionedparcelable/1.1.1/d9085927216387af679d18b6f472bc0fc5c7cc81/versionedparcelable-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: com.google.code.findbugs:jsr305:2.0.2" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="com.google.code.findbugs" artifactId="jsr305" version="2.0.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.2/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+  <library name="Gradle: com.google.guava:listenablefuture:1.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="com.google.guava" artifactId="listenablefuture" version="1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c949a840a6acbc5268d088e47b04177bf90b3cad/listenablefuture-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c6fc3e29c8cc24b39c2cd8f66b41bf40e342901c/listenablefuture-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/be1234988ac73d61e52e35a912169b06020caa7/listenablefuture-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: com.squareup:javawriter:2.1.1" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="com.squareup" artifactId="javawriter" version="2.1.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/f591a105db78771d0a1e7a277b3747556c528c22/javawriter-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/5b31387d839a5cdaf5b6de3990da01f7f2b963c5/javawriter-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: javax.inject:javax.inject:1" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="javax.inject" artifactId="javax.inject" version="1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/70ec961c25111ed9015d1af77772d96383c2d238/javax.inject-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: junit:junit:4.13.2" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="junit" artifactId="junit" version="4.13.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/f2f3f384dacd2ade2ddf7aa7e0f4360dfee38672/junit-4.13.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/33987872a811fe4d4001ed494b07854822257f42/junit-4.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.hamcrest:hamcrest-core:1.3" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.hamcrest" artifactId="hamcrest-core" version="1.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/ad09811315f1d4f5756986575b0ea16b99cd686f/hamcrest-core-1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.hamcrest:hamcrest-integration:1.3" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.hamcrest" artifactId="hamcrest-integration" version="1.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/cc5884d4138d3376f574f6a3992acceedfc37bea/hamcrest-integration-1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/ae7787a563e6a1b1f17fd4ac43be3a3c8830cfda/hamcrest-integration-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.hamcrest:hamcrest-library:1.3" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.hamcrest" artifactId="hamcrest-library" version="1.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4324046c5f99f3dc91b5370899fa3ae65fd137d2/hamcrest-library-1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-stdlib-jdk7" version="1.8.20" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.20/3aa51faf20aae8b31e1a4bc54f8370673d7b7df4/kotlin-stdlib-jdk7-1.8.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.20/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-jdk7-1.8.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.20/3641d7cb7650db9fe93a5361b1b88cbcefdb01e0/kotlin-stdlib-jdk7-1.8.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-stdlib-jdk8" version="1.8.20" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.20/73576ddf378c5b4f1f6b449fe6b119b8183fc078/kotlin-stdlib-jdk8-1.8.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.20/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-jdk8-1.8.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.20/20739e7aae2a2bfb66c4081b233ffea7b947cf77/kotlin-stdlib-jdk8-1.8.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.9.22" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-stdlib" version="1.9.22" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.22/d6c44cd08d8f3f9bece8101216dbe6553365c6e3/kotlin-stdlib-1.9.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.22/d1b45176c0aeb15a309a4f4a7cd160d4b3c8b733/kotlin-stdlib-1.9.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-android" version="1.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.7.1/c2d86b569f10b7fc7e28d3f50c0eed97897d77a7/kotlinx-coroutines-android-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.7.1" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-core-jvm" version="1.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.7.1/63a0779cf668e2a47d13fda7c3b0c4f8dc7762f4/kotlinx-coroutines-core-jvm-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.7.1/9ba46d8eb284ab4db835daebb561d8e5e918467e/kotlinx-coroutines-core-jvm-1.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-test-jvm:1.7.1" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-test-jvm" version="1.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test-jvm/1.7.1/46877b802bede2a4b97ad2abe770685190ad8706/kotlinx-coroutines-test-jvm-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test-jvm/1.7.1/487eb76a3b0eafdedcc6df4e5c3e201f2e967b57/kotlinx-coroutines-test-jvm-1.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Gradle: org.jetbrains:annotations:23.0.0" type="java-imported" __external-system-id="GRADLE">
+    <properties groupId="org.jetbrains" artifactId="annotations" version="23.0.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/41442a550d78cb59a601c1d38603f6ab5497f93c/annotations-23.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/ca5088d615accaabd2aa956b10b236a4e75cfccb/annotations-23.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

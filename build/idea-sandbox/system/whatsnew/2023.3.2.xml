@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (C) 2019 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<tutorialBundle
+    name="What's New"
+    resourceRoot="/"
+    stepByStep="false"
+    hideStepIndex="true"
+    version="2023.3.2.2">
+  <feature
+      name="What's New in Koala">
+    <tutorial
+        key="whats-new"
+        label=" What's New in Koala"
+        icon="preview/product-icon.svg"
+        remoteLink="https://d.android.com/r/studio-ui/whats-new-assistant/preview-release-notes/2023-3-2"
+        remoteLinkLabel="Read in a browser">
+      <description>
+        <![CDATA[
+          This panel describes some of the new features and behavior changes
+          included in this update.
+          <br><br>
+          To open this panel again later, select <b>Help &gt; What's New in Android Studio</b>
+          from the main menu.
+          ]]>
+      </description>
+      <step label="Build a Generative AI app using the Gemini API template">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>
+            You can now use Android Studio to build an app that implements Generative AI using the
+            <a href="http://ai.google.dev/tutorials/android_quickstart?utm_source=android&utm_medium=referral">Google AI SDK</a>.
+            The Gemini API template in Android Studio lets you incorporate AI-powered features, such
+            as those that rely on text generation and image recognition, in your app to delight your
+            users.
+            </p>
+            <br><br>
+            <a href="https://d.android.com/r/studio-ui/ide/gemini-template">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <step label="Launch Android Studio in Safe Mode">
+        <stepElement>
+          <section>
+            <![CDATA[
+            <p>
+            Android Studio offers the ability to launch Android Studio in Safe Mode. This mode can
+            be useful if you run into a situation where certain features don't work or the entire
+            IDE fails to launch. Using Safe Mode temporarily returns the IDE to a set of default
+            configurations that might allow it to launch, so that you can troubleshoot from there to
+            identify the issue and restore functionality.
+            </p>
+            <br><br>
+            <a href="https://d.android.com/r/studio-ui/ide/safe-mode">Learn more</a>
+            <br>
+            ]]>
+          </section>
+        </stepElement>
+      </step>
+      <footerStep label="">
+        <stepElement>
+          <section>
+            <![CDATA[
+              <br><em>Last updated 3/20/2024</em><br><br>
+            ]]>
+          </section>
+        </stepElement>
+      </footerStep>
+    </tutorial>
+  </feature>
+</tutorialBundle>

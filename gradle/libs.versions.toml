@@ -1,0 +1,30 @@
+[versions]
+annotations = "24.0.1"
+detekt = "1.22.0"
+agp = "8.2.0"
+kotlin = "1.9.22"
+changelog = "2.0.0"
+gradleIntelliJPlugin = "1.15.0"
+publish = "0.21.0"
+buildconfig = "5.1.0"
+
+[libraries]
+annotations = { group = "org.jetbrains", name = "annotations", version.ref = "annotations" }
+
+detekt-api = { group = "io.gitlab.arturbosch.detekt", name = "detekt-api", version.ref = "detekt" }
+detekt-core = { module = "io.gitlab.arturbosch.detekt:detekt-core", version.ref = "detekt" }
+detekt-test = { module = "io.gitlab.arturbosch.detekt:detekt-test", version.ref = "detekt" }
+
+kotlin-compiler-embeddable = { group = "org.jetbrains.kotlin", name = "kotlin-compiler-embeddable", version.ref = "kotlin" }
+
+[plugins]
+changelog = { id = "org.jetbrains.changelog", version.ref = "changelog" }
+intellij = { id = "org.jetbrains.intellij", version.ref = "gradleIntelliJPlugin" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+publish = { id = "com.vanniktech.maven.publish", version.ref = "publish" }
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+android-library = { id = "com.android.library", version.ref = "agp" }
+detekt = { id = "io.gitlab.arturbosch.detekt", version.ref = "detekt" }
+buildconfig = { id = "com.github.gmazzo.buildconfig", version.ref = "buildconfig" }
+

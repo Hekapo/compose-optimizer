@@ -1,0 +1,537 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="My Application" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1thcp0qc37dfe" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/GenerateWrapper.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="220">
+                <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/UnstableClasses.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="352">
+                <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/UnstableClassesDeep.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="198">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/MainActivity.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="88">
+                <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "textmate": {
+      "usageCount": 14,
+      "lastUsed": 1714412599701
+    },
+    "TOML": {
+      "usageCount": 21,
+      "lastUsed": 1714402008013
+    },
+    "Kotlin": {
+      "usageCount": 125,
+      "lastUsed": 1714412795400
+    },
+    "GitIgnore file": {
+      "usageCount": 2,
+      "lastUsed": 1714412599921
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UnstableInterface</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/src/main/java/com/app/myapplication</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <option value="$PROJECT_DIR$/gradle/libs.versions.toml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/app/myapplication/SomeClass.kt" />
+      <option value="$PROJECT_DIR$/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/app/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/compose_compiler_config.conf" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/app/myapplication/MainActivity.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/app/myapplication/UnstableClassesDeep.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/app/myapplication/GenerateWrapper.kt" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/app/myapplication/UnstableClasses.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1714412599921" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1710539540254" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="48" lastUsage="1710537484249" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="32" lastUsage="1710546277948" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="69" lastUsage="1714402008013" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="317" lastUsage="1714412795400" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="22" lastUsage="1714412599701" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com/app/myapplication}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="My Application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="My Application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="My Application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/iskandar/AndroidStudioProjects/MyApplication/app/src/main/java/com/app/myapplication}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My Application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="My Application-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18076509" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Structure" order="4" side_tool="true" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969886" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33029723" />
+      <window_info anchor="bottom" id="Logcat" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32933843" />
+      <window_info anchor="bottom" id="App Quality Insights" order="12" />
+      <window_info anchor="bottom" id="App Inspection" order="13" />
+      <window_info anchor="right" id="Gradle" order="0" weight="0.33001077" />
+      <window_info anchor="right" id="Device Manager" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="3" weight="0.2421875" />
+      <window_info anchor="right" id="StudioBot" order="4" />
+      <window_info anchor="right" id="Device Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="6" />
+      <window_info anchor="right" id="App Links Assistant" order="7" />
+      <window_info anchor="right" id="Wear Health Services" order="8" />
+      <window_info anchor="right" id="CidrDebuggerDevTool" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
+      <window_info anchor="right" id="Running Devices" order="11" side_tool="true" />
+      <unified_weights bottom="0.32933843" left="0.18076509" right="0.2421875" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Assistant</value>
+      <value>Build</value>
+      <value>Gradle</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="455" width="950" height="537" key="#PSD" timestamp="1714402822330">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="832" y="455" width="950" height="537" key="#PSD/426.1440.1856.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1714402822330" />
+    <state x="768" y="259" width="437" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1710539604954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="259" width="437" height="569" key="#com.intellij.ide.util.MemberChooser/1920.27.1920.1053/0.0.1920.1080@0.0.1920.1080" timestamp="1710539604954" />
+    <state x="795" y="391" width="384" height="305" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1710538962168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="795" y="391" width="384" height="305" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.27.1920.1053/0.0.1920.1080@0.0.1920.1080" timestamp="1710538962168" />
+    <state x="743" y="294" width="424" height="491" key="FileChooserDialogImpl" timestamp="1710584927098">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="294" width="424" height="491" key="FileChooserDialogImpl/1920.27.1920.1053/0.0.1920.1080@0.0.1920.1080" timestamp="1710584927098" />
+    <state x="782" y="314" key="FileChooserDialogImpl/64.27.1856.1053@64.27.1856.1053" timestamp="1709625249893" />
+    <state x="1331" y="392" key="FileChooserDialogImpl/870.1440.1856.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1710413046437" />
+    <state x="888" y="1628" width="900" height="737" key="SettingsEditor" timestamp="1714412647499">
+      <screen x="426" y="1440" width="1856" height="1080" />
+    </state>
+    <state x="478" y="188" width="900" height="737" key="SettingsEditor/1920.27.1920.1053/0.0.1920.1080@0.0.1920.1080" timestamp="1713107388447" />
+    <state x="2369" y="188" width="1022" height="737" key="SettingsEditor/1920.27.1920.1053/0.0.1920.1080@1920.27.1920.1053" timestamp="1710584481081" />
+    <state x="637" y="251" width="1022" height="737" key="SettingsEditor/426.1440.1856.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1714404751545" />
+    <state x="888" y="1628" width="900" height="737" key="SettingsEditor/426.1440.1856.1080/0.0.2560.1440@426.1440.1856.1080" timestamp="1714412647499" />
+    <state x="498" y="188" width="1022" height="737" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1711366681065" />
+    <state x="856" y="251" width="1022" height="737" key="SettingsEditor/870.1440.1856.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1710413377530" />
+    <state x="856" y="251" width="1022" height="737" key="SettingsEditor/873.1440.1856.1080/0.0.3440.1440@0.0.3440.1440" timestamp="1710749442412" />
+    <state x="1067" y="135" width="605" height="768" key="find.popup" timestamp="1714403037312">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1067" y="135" width="605" height="768" key="find.popup/426.1440.1856.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1714403037312" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/SomeClass.kt" />
+    <entry file="file://$PROJECT_DIR$/app/build/compose_metrics/app_release-composables.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/compose_metrics/app_release-composables.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/compose_metrics/app_release-module.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/compose_metrics/app_release-classes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default.conf" />
+    <entry file="file://$PROJECT_DIR$/gradle/libs.versions.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/ImmutableList.kt" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compose_compiler_config.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="88">
+            <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/UnstableClassesDeep.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="198">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/GenerateWrapper.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="220">
+            <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/myapplication/UnstableClasses.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="352">
+            <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

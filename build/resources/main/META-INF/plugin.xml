@@ -1,0 +1,20 @@
+<idea-plugin require-restart="false">
+  <version>0.0.1</version>
+  <idea-version since-build="241" until-build="241.*" />
+  <id>com.github.hekapo.composeoptimizer</id>
+  <name>Compose Optimizer</name>
+  <vendor>Hekapo</vendor>
+  <description>Idea plugin for Jetpack Compose optimization</description>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>org.jetbrains.kotlin</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationService serviceImplementation="com.github.hekapo.composeoptimizer.settings.PluginSettingsComponent" />
+    <applicationConfigurable id="com.github.hekapo.composeoptimizer.preferences" displayName="ComposeOptimizer" instance="com.github.hekapo.composeoptimizer.settings.PluginConfigurable" groupId="root" />
+    <localInspection language="kotlin" displayName="Composable functions inspection" groupName="Jetpack compose" shortName="ComposableInspection" enabledByDefault="true" level="ERROR" implementationClass="com.github.hekapo.composeoptimizer.inspections.NotRememberedInspection" />
+    <localInspection language="kotlin" displayName="Composable collections inspection" groupName="Jetpack compose" shortName="CollectionsInspection" enabledByDefault="true" level="ERROR" implementationClass="com.github.hekapo.composeoptimizer.inspections.collections.UnstableCollectionInspection" />
+    <localInspection language="kotlin" displayName="Composable nested modifier inspection" groupName="Jetpack compose" shortName="NestedModifiersInspection" enabledByDefault="true" level="ERROR" implementationClass="com.github.hekapo.composeoptimizer.inspections.ModifierReusedInspection" />
+    <localInspection language="kotlin" displayName="Composable class inspection" groupName="Jetpack compose" shortName="UnstableClassInspection" enabledByDefault="true" level="ERROR" implementationClass="com.github.hekapo.composeoptimizer.inspections.stability.UnstableClassesInspection" />
+    <notificationGroup id="Custom Notification Group" displayType="BALLOON" key="group.name" />
+    <postStartupActivity implementation="com.github.hekapo.composeoptimizer.startup.ConfFileCheckerActivity" />
+  </extensions>
+</idea-plugin>

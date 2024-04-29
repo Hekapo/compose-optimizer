@@ -1,0 +1,175 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="6" l="1714412315783" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1710543526594" />
+    </e>
+    <e n="$Redo">
+      <i c="3" l="1709590065022" />
+    </e>
+    <e n="$SelectAll">
+      <i c="22" l="1714412797030" />
+    </e>
+    <e n="$Undo">
+      <i c="109" l="1714416145721" />
+    </e>
+    <e n="About">
+      <i c="2" l="1709594101107" />
+    </e>
+    <e n="Back">
+      <i c="6" l="1714402756039" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="4" l="1714402769008" />
+    </e>
+    <e n="CompileDirty">
+      <i c="1" l="1709591764011" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="225" l="1714415927734" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="70" l="1714415929404" />
+    </e>
+    <e n="EditorCopy">
+      <i c="44" l="1714415486174" />
+    </e>
+    <e n="EditorCut">
+      <i c="66" l="1714416137417" />
+    </e>
+    <e n="EditorDown">
+      <i c="58" l="1714412753137" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1710539597117" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="14" l="1714412767743" />
+    </e>
+    <e n="EditorEnter">
+      <i c="63" l="1714415921476" />
+    </e>
+    <e n="EditorEscape">
+      <i c="6" l="1714412772648" />
+    </e>
+    <e n="EditorLeft">
+      <i c="27" l="1714402939330" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1714400193399" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="30" l="1714402938603" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="9" l="1714402685997" />
+    </e>
+    <e n="EditorPaste">
+      <i c="42" l="1714415488003" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="11" l="1714404018475" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="12" l="1714412735696" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="2" l="1710539342456" />
+    </e>
+    <e n="EditorRight">
+      <i c="24" l="1714415489790" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="3" l="1714402935963" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1714402697098" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1712607767422" />
+    </e>
+    <e n="EditorUp">
+      <i c="29" l="1714412755861" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="3" l="1714412739215" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="7" l="1709590372036" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1714403032606" />
+    </e>
+    <e n="Forward">
+      <i c="3" l="1710538625664" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="3" l="1714404020099" />
+    </e>
+    <e n="Gradle.DownloadSources">
+      <i c="1" l="1710543544296" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="4" l="1714412788785" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="1" l="1710538927628" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="2" l="1710539597710" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1710543516394" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="8" l="1710539362273" />
+    </e>
+    <e n="OpenInRightSplit">
+      <i c="2" l="1714402691450" />
+    </e>
+    <e n="OverrideMethods">
+      <i c="3" l="1710539604172" />
+    </e>
+    <e n="RebuildGradleProject">
+      <i c="1" l="1710282614566" />
+    </e>
+    <e n="ReformatCode">
+      <i c="23" l="1714412822891" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1710538958493" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="10" l="1714416092849" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1714402821308" />
+    </e>
+    <e n="ShowSettings">
+      <i c="94" l="1714412644157" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="1" l="1711911365093" />
+    </e>
+    <e n="SplitVertically">
+      <i c="3" l="1710539555777" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1709589717895" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="1" l="1711911400494" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="4" l="1714412316401" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="3" l="1711366490221" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="8" l="1714395298697" />
+    </e>
+  </component>
+</application>

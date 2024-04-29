@@ -1,0 +1,18 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="rules-persistent-state-converter" />
+    <converter id="android-native-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/kotlinc.xml" t="1709588493" />
+    <f p="./.idea/gradle.xml" t="1709589728" />
+    <f p="./.idea/misc.xml" t="1714400811" />
+    <f p="./.idea/workspace.xml" t="1714395195" />
+    <f p="./.idea/other.xml" t="1714395195" />
+    <f p="./.idea/compiler.xml" t="1709588493" />
+    <f p="./.idea/migrations.xml" t="1709572527" />
+    <f p="./.idea/deploymentTargetSelector.xml" t="1709588493" />
+    <f p="./.idea/appInsightsSettings.xml" t="1711366689" />
+  </project-files>
+</conversion>

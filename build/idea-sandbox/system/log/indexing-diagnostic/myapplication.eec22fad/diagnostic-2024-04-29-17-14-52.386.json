@@ -1,0 +1,110 @@
+{
+  "appInfo" : {
+    "build" : "241.14494.240.2411.11731683",
+    "buildDate" : "2024-04-18T07:33:00Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2024-04-29T14:14:52.386815033Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+0-17.0.10b1087.21-11609105"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "My Application",
+    "times" : {
+      "scanningReason" : "changes in: \"External roots from entity (classes; empty; empty; empty)\", \"External roots from entity (classes; empty; empty; empty)\", \"External roots from entity (classes; empty; empty; empty)\", \"External roots from entity (classes; empty; empty; empty)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 2475,
+      "concurrentHandlingWallTimeWithoutPauses" : 401770409,
+      "concurrentHandlingWallTimeWithPauses" : 401770409,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 573181996,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 7468080,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 564578135,
+      "delayedPushPropertiesStageTime" : 8205,
+      "indexExtensionsTime" : 705948,
+      "dumbModeStart" : "2024-04-29T14:14:51.927268587Z",
+      "dumbWallTimeWithPauses" : 403991696,
+      "dumbWallTimeWithoutPauses" : 403991696,
+      "updatingStart" : "2024-04-29T14:14:51.92688794Z",
+      "updatingEnd" : "2024-04-29T14:14:52.331260283Z",
+      "totalWallTimeWithPauses" : 404372534,
+      "wallTimeOnPause" : 17603,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 404354931
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 4,
+      "numberOfScannedFiles" : 378,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 378
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "External roots from entity (classes; empty; empty; empty)",
+      "numberOfScannedFiles" : 349,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 349,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 337709335,
+      "totalOneThreadTimeWithPauses" : 396082166,
+      "iterationAndScannersApplicationTime" : 3630775,
+      "filesCheckTime" : 392320103,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 231592841,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 602968,
+      "roots" : [ ]
+    }, {
+      "providerName" : "External roots from entity (classes; empty; empty; empty)",
+      "numberOfScannedFiles" : 25,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 25,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 72951782,
+      "totalOneThreadTimeWithPauses" : 83173455,
+      "iterationAndScannersApplicationTime" : 1441527,
+      "filesCheckTime" : 81680801,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 61923696,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 87028,
+      "roots" : [ ]
+    }, {
+      "providerName" : "External roots from entity (classes; empty; empty; empty)",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 2,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 37744965,
+      "totalOneThreadTimeWithPauses" : 47269009,
+      "iterationAndScannersApplicationTime" : 1207908,
+      "filesCheckTime" : 46004375,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 32910951,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 11002,
+      "roots" : [ ]
+    }, {
+      "providerName" : "External roots from entity (classes; empty; empty; empty)",
+      "numberOfScannedFiles" : 2,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 2,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 35827590,
+      "totalOneThreadTimeWithPauses" : 46657366,
+      "iterationAndScannersApplicationTime" : 1187870,
+      "filesCheckTime" : 44572856,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 30422211,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 4950,
+      "roots" : [ ]
+    } ]
+  }
+}

@@ -1,0 +1,149 @@
+öõæ•£
+analytics/surveys/followupÑd2ˇ
+Htype.googleapis.com/wireless.android.devtools.server_flags.protos.Survey≤
+Android Studio FeedbackUWhich of the following areas is the biggest weakness or pain-point in Android Studio? *A?IDE stability (i.e. reduction in crashes, hangs, system errors)*:8IDE system performance (i.e. memory and CPU utilization)*DBIDE usability (i.e. ease-of-use, configuration, feature discovery)*Editing and code navigation*UI design and layout tools*Build speed*" Build configuration capabilities*Dependency management*	Emulators**(Profiling and performance analysis tools*Testing capabilities*'%Debugging and inspection capabilities*.,Static code analysis tools (e.g. ‚ÄúLint‚Äù)*SDK and plugin management2'Followup Satisfaction Survey 2020-12-218ñ
+analytics/surveys/satisfactionÛ2B2Î
+Htype.googleapis.com/wireless.android.devtools.server_flags.protos.Surveyû
+Android Studio Feedback1Overall, how satisfied are you with this product? *Extremely satisfied*Very satisfied*Moderately satisfied*Only somewhat satisfied*Not at all satisfied*" I do not have an opinion on this26Android Studio Unipolar Satisfaction Survey 2024-01-17‰
+9analytics/surveys/feature/ANDROID_PROJECT_VIEW_UNSELECTED¶d2°
+Htype.googleapis.com/wireless.android.devtools.server_flags.protos.Survey‘
+Android Project View FeedbackKWhat was the main reason you switched between the Android and Project view? **(I couldn't find a file I was looking for*-+I couldn't add a file to a desired location*20I wanted to access source code files more easily*:8I wanted to access build configuration files more easily*:8I wanted to access resource definition files more easily* I just prefer the Project view*None of the above2&Android Project view Survey 2023-02-21Á
+3analytics/surveys/feature/DOWNLOAD_INFO_VIEW_SURVEYØd2™
+Htype.googleapis.com/wireless.android.devtools.server_flags.protos.Survey›
+Sync Downloads View FeedbackHHow useful is the download info that is shown in the Gradle Sync window? *Not at all useful*A little useful*Moderately useful*Very useful2%Sync Downloads View Survey 2023-04-14¬
+7analytics/surveys/feature/KOTLIN_SUPPORT_DECLINED_EVENTÜd2Å
+Htype.googleapis.com/wireless.android.devtools.server_flags.protos.Survey¥
+Kotlin Adoption SurveyÅFor the new project you just created, which of the following best describes the reason that you are using Java instead of Kotlin? *I don‚Äôt know Kotlin at all.*SQI am still learning Kotlin, and I don‚Äôt feel qualified to use it in my app yet.*-+I am required to use Java for this project.*OMI am concerned that the Kotlin development experience is not as good as Java.*HFI am concerned that Kotlin runtime performance is not as good as Java.*QOI created a Java project previously and forgot to change the setting to Kotlin.*,*Java was the default. I did not change it.*None of the above.2=New projects switch out from Kotlin default survey 2023-04-11∆
+Aanalytics/surveys/feature/UPGRADE_ASSISTANT_CTA_OLD_AGP_DISMISSEDÄd2˚
+Htype.googleapis.com/wireless.android.devtools.server_flags.protos.SurveyÆ
+&Upgrade Android Gradle Plugin FeedbackøWe noticed your project is using an older version of Android Gradle Plugin (AGP version 7.0 or below). What is the main reason for continuing to use an older version of AGP with your project? *&$I tried to upgrade AGP but it failed*-+Upgrading AGP takes too much time or effort*(&I don‚Äôt see the benefit of upgrading*=;I don‚Äôt want to risk breaking my project by upgrading AGP*:8Someone else in my team is responsible for upgrading AGP*None of the above2/Upgrade Android Gradle Plugin Survey 2023-02-06
+diagnostics/forced_gc2(y
+diagnostics/heap_reports]2Y
+Rtype.googleapis.com/wireless.android.devtools.server_flags.protos.HeapReportConfig†
+diagnostics/jfr(´&
+"diagnostics/memory_usage_reportingÑ&2ˇ%
+`type.googleapis.com/wireless.android.devtools.server_flags.protos.MemoryUsageReportConfigurationö%
+Y
+android:resourceManager>
+resourceManager_main&org.jetbrains.android.resourceManagers
+ç
+android:resourceRepositoryo
+resourceRepository_mainorg.jetbrains.android.facetcom.android.tools.idea.rescom.android.resources ÄßÚ¶
+é	
+android:designToolsú
+	renderingandroidandroidx com.android.tools.idea.renderingcom.android.tools.rendering ÄßÚ¶27org.jetbrains.android.uipreview.StudioModuleClassLoader=
+	imagepool*com.android.tools.idea.rendering.imagepool Ä∆Üè≥
+layoutEditor%com.android.tools.idea.common.surface#com.android.tools.idea.common.scene$com.android.tools.idea.common.editor#com.android.tools.idea.common.error com.android.tools.idea.uibuilder%com.android.tools.idea.configurationscom.android.tools.idea.composecom.android.tools.idea.preview ÄÍÂI
+	layoutlibcom.android.layoutlib com.android.tools.idea.layoutlib Ä◊ÃZ2
+	naveditor com.android.tools.idea.naveditor ¿ñ±"Hcom.android.tools.idea.uibuilder.visual.visuallint.VisualLintRenderIssue"5com.android.tools.idea.common.error.IssuePanelService"-com.intellij.openapi.project.impl.ProjectImpl"Icom.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleBridgeImpl"3com.android.tools.idea.common.editor.DesignerEditor"5com.android.tools.idea.common.editor.DesignFileEditor"@com.android.tools.idea.uibuilder.editor.DesignFilesPreviewEditor";com.android.tools.idea.common.editor.DesignToolsSplitEditor
+ﬁ
+android:gradleP
+gradle_mainorg.jetbrains.plugins.gradlecom.android.tools.idea.gradle ÄÅ∑∞"Icom.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleBridgeImpl"8org.jetbrains.plugins.gradle.DefaultExternalDependencyId"9org.jetbrains.plugins.gradle.model.DefaultExternalProject":com.intellij.openapi.externalSystem.model.project.TestData
+Ù
+android:profilerì
+profiler_maincom.android.tools.profilerscom.android.tools.profiler com.android.tools.idea.profilerscom.android.tools.perflibtrebuchet.ioJ
+	transport com.android.tools.idea.transportcom.android.tools.datastore
+G
+android:templates2
+templates_main com.android.tools.idea.templates
+Ú
+android:runDebugJ
+runDeployercom.android.tools.idea.runcom.android.tools.deployer Ä— ,
+logcatcom.android.tools.idea.logcat ¿¥†.;
+ddmcom.android.tools.idea.ddmscom.android.ddmlib Äª∞!=
+debugcom.android.tools.idea.debugcom.intellij.xdebugger,
+apkView!com.android.tools.idea.apk.viewer:
+liveedit.com.android.tools.idea.run.deployment.liveedit
+t
+android:lintd
+	lint_maincom.android.tools.lintcom.android.tools.idea.lint"com.android.tools.idea.common.lint
+J
+android:cpp;
+cpp_maincom.android.tools.ndkcom.jetbrains.cidr ÄÌ¯µ
+k
+android:avdmanagerU
+avdmanager_main!com.android.tools.idea.avdmanagercom.android.sdklib.internal.avd
+s
+android:editors.
+editors_maincom.android.tools.idea.editors0
+inspections!org.jetbrains.android.inspections
+j
+android:diagnosticsS
+diagnostics_main"com.android.tools.idea.diagnosticscom.android.tools.analytics
+v
+android:dataBinding_
+dataBinding_main"com.android.tools.idea.databinding'com.android.tools.idea.lang.databinding
+H
+android:sdk9
+sdk_maincom.android.sdkliborg.jetbrains.android.sdk
+¬
+intellij:platform,
+projectcom.intellij.openapi.project Ä¬◊/4
+application com.intellij.openapi.application ÄÅÆ6d
+module8com.intellij.workspaceModel.ide.impl.legacyBridge.modulecom.intellij.openapi.module ÄÂöwπ
+vfscom.intellij.openapi.vfsAcom.intellij.workspaceModel.ide.impl.IdeVirtualFileUrlManagerImplOcom.intellij.workspaceModel.ide.impl.legacyBridge.watcher.VirtualFileUrlWatcher Äô§äL
+editorcom.intellij.openapi.editorcom.intellij.openapi.fileEditor Ä∆Üè
+psicom.intellij.psi ÄÖ›ï8
+intellij_inspectionscom.intellij.codeInspection ¿®•+
+messagescom.intellij.util.messages ÄÔπ4¸
+loaders!com.intellij.util.lang.FileLoader com.intellij.util.lang.JarLoader%com.intellij.util.lang.UrlClassLoader-com.intellij.ide.plugins.cl.PluginClassLoader)com.intellij.util.lang.JdkZipResourceFile&com.intellij.util.lang.ZipResourceFile Äïı*&
+indexingcom.intellij.util.indexing,
+actions!com.intellij.openapi.actionSystem
+ﬂ
+kotlin#
+kotlin_restorg.jetbrains.kotlin9
+kotlin_completion$org.jetbrains.kotlin.idea.completion1
+kotlin_caches org.jetbrains.kotlin.idea.caches;
+kotlin_codeInsight%org.jetbrains.kotlin.idea.codeInsight;
+kotlin_inspections%org.jetbrains.kotlin.idea.inspections9
+kotlin_intentions$org.jetbrains.kotlin.idea.intentions;
+kotlin_refactoring%org.jetbrains.kotlin.idea.refactoring5
+kotlin_debugger"org.jetbrains.kotlin.idea.debugger3
+kotlin_resolve!org.jetbrains.kotlin.idea.resolve.
+kotlin_stubsorg.jetbrains.kotlin.psi.stubs4
+kotlin_findUsagesorg.jetbrains.kotlin.findUsages»Äåçû Ä∞¥¯¥
+exceptions/ClassCastExceptioníd2ç
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfiguration1
+ójava.lang.ClassCastException  º
+!exceptions/ClassNotFoundExceptionñd2ë
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfiguration5
+ó" java.lang.ClassNotFoundException  £
+#exceptions/PluginException-0073ff27˚d2ˆ
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfigurationô
+óÖÇcom.intellij.diagnostic.PluginException at com.intellij.diagnostic.PluginProblemReporterImpl.createPluginExceptionByClass-0073ff27  —
+exceptions/b_256873104∂P2±
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfigurationU
+ÁB@org.jdom.IllegalDataException at org.jdom.CDATA.setText-8ae68d55  û
+exceptions/b_287116550_1Åd2¸
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfigurationü
+Ëãàcom.android.adblib.AdbDeviceFailResponseException at com.android.adblib.impl.services.AdbServiceRunner.readFailResponseAndThrow-0b71f834  û
+exceptions/b_287116550_2Åd2¸
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfigurationü
+Ëãàcom.android.adblib.AdbDeviceFailResponseException at com.android.adblib.impl.services.AdbServiceRunner.readFailResponseAndThrow-b57a8dbf  ñ
+exceptions/b_300548532˚d2ˆ
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfigurationô
+ËÖÇcom.intellij.diagnostic.PluginException at com.intellij.diagnostic.PluginProblemReporterImpl.createPluginExceptionByClass-0bbc4452  ü
+exceptions/b_300550343Ñd2ˇ
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfiguration¢
+Ëéãcom.android.diagnostic.LoggerErrorMessage at com.jetbrains.jsonSchema.extension.JsonSchemaProviderFactory.lambda$getResourceFile$1-59a446c2  à
+exceptions/b_300614573Ìd2Ë
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfigurationã
+Ëxvcom.android.diagnostic.LoggerErrorMessage at com.intellij.openapi.actionSystem.DefaultActionGroup.getChildren-c0a60e9a  ˚
+exceptions/b_300908560‡d2€
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfiguration
+Ëljjava.lang.IllegalStateException at com.intellij.codeInsight.daemon.impl.B.assertAnnotationCreated-d89baf1d  ü
+exceptions/b_312786405Ñd2ˇ
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfiguration¢
+Ëéãcom.android.diagnostic.LoggerErrorMessage at com.android.tools.idea.streaming.core.StreamingToolWindowManager.reportDuplicatePanel-8c19f938  ≠
+exceptions/b_318878495íd2ç
+Xtype.googleapis.com/wireless.android.devtools.server_flags.protos.ExceptionConfiguration∞
+Ëúôcom.intellij.platform.instanceContainer.internal.DisposalTrace at com.intellij.platform.instanceContainer.internal.InstanceContainerImpl.dispose-517c4709  (
+ studio_flags/directaccess.enabled(,
+$studio_flags/profiler.keyboard.eventd( D
+<studio_flags/rundebug.adblib.migration.ddmlib.idevicemanager( J
+Bstudio_flags/rundebug.adblib.migration.ddmlib.ideviceusage.trackerd(C
+;studio_flags/studiobot.build.and.sync.error.context.enabled(3
++studio_flags/studiobot.chat.context.enabled(=
+5studio_flags/studiobot.compiler.error.context.enabled(<
+4studio_flags/studiobot.editor.action.context.enabled(;
+3studio_flags/studiobot.gradle.error.context.enabled(

@@ -1,0 +1,51 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 113,
+      "miss" : 0,
+      "load" : 127,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 123,
+    "maxRegisteredFiles" : 449,
+    "maxCacheSizeInBytes" : 259022848,
+    "totalCachedSizeInBytes" : 1048576,
+    "pageHits" : 17,
+    "pageFastCacheHits" : 14224,
+    "pageLoadsAboveSizeThreshold" : 0,
+    "regularPageLoads" : 254,
+    "disposedBuffers" : 253,
+    "totalPageDisposalUs" : 793,
+    "totalPageLoadUs" : 318222,
+    "totalPagesLoaded" : 254,
+    "capacityInBytes" : 503316478
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : { }
+  },
+  "otherStorageStats" : {
+    "statsPerPhm" : {
+      "$USER_HOME$/IdeaProjects/compose-optimizer/build/idea-sandbox/system/persistent-markup/MyApplication-eec22fad" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      }
+    }
+  }
+}

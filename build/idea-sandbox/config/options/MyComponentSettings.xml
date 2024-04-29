@@ -1,0 +1,5 @@
+<application>
+  <component name="com.github.hekapo.composeoptimizer.ui.PluginSettingsComponent">
+    <option name="stabilityChecksIgnoringClasses" />
+  </component>
+</application>
